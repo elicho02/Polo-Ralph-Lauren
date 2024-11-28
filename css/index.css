@@ -2,7 +2,9 @@
 @import url(./../../css/font.css);
 
 
-html {height: -webkit-fill-available;}
+html {
+  height: -webkit-fill-available;
+  overflow: hidden;}
 ::-webkit-scrollbar {display: none;}
 body{
   font-weight: 400;
